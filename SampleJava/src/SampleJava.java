@@ -18,6 +18,7 @@ public class SampleJava {
 		System.out.println("Test Method234340023");
 		System.out.println("Test Method234");
 		System.out.println("Test Method3");
+		System.out.println("Test Method4");
 	}
 
 }

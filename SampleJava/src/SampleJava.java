@@ -13,7 +13,7 @@ public class SampleJava {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Test Method1");
-		System.out.println("Test Method2");
+		System.out.println("Test Method3");
 	}
 
 }

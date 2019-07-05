@@ -22,6 +22,9 @@ public class SampleJava {
 		System.out.println("Test Method4");System.out.println("Test Method4");System.out.println("Test Method4");
 		
 		System.out.println("Added New Line 3 by aappshark");
+		
+		System.out.println("Commit 2 on branch by aappshark\");"
+				System.out.println("Commit 2 on branch by aappshark\");
 	}
 
 }

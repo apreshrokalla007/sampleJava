@@ -18,6 +18,10 @@ public class SampleJava {
 		System.out.println("Commit 2 by agmail");
 		
 		System.out.println("Commit 2 by agmail");
+		
+        System.out.println("Commit 3 by agmail");
+		
+		System.out.println("Commit 3 by agmail");
 	}
 
 }
